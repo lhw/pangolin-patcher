@@ -1,0 +1,5 @@
+domain.one:
+  Authorization: "Basic dXNlcm5hbWU6cGFzc3dvcmQ="
+domain.two:
+  Authorization: "Basic YW5vdGhlcnVzZXI6YW5vdGhlcnBhc3N3b3Jk="
+  Whatever: "You-Feel-Like"
